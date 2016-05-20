@@ -1,0 +1,4 @@
+D_MAIN equ 1000
+B_OK equ 1
+EDIT_1 equ 1001
+IDC_IMAGE equ 12345
